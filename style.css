@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,700");
 @font-face {
   font-family: 'Quastro';
-  src: url(/FonteQuastro/Quastro.ttf) format('truetype'),
+  src: url(Quastro.ttf) format('truetype'),
 
 }
 body {
