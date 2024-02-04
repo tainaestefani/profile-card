@@ -2,8 +2,8 @@
 @font-face {
   font-family: 'Quastro';
   src: url(./src/font/Quastro.ttf) format('truetype'),
-
 }
+
 body {
   font-family: 'Times New Roman', Times, serif;
   margin: 0;
@@ -13,6 +13,7 @@ body {
   justify-items: center;
   background-image: linear-gradient(to top, #15152c 0%, #7985b5 100%);
 }
+
 .card {
   background: #fff;
   border-radius: 4px;
@@ -23,12 +24,14 @@ body {
   border-radius: 25px;  
   position: relative;
 } 
+
 .card h2 {
   font-family: Quastro, sans-serif;
   margin: 0;  
   padding: 0 1rem;
   font-size: 25.1px;
 }
+
 .card .title {
   padding: 0.5em;
   padding-right: 1.5em;
@@ -37,17 +40,20 @@ body {
   font-weight: bold;
   font-size: 12px;
 }
+
 .card .desc {
   text-align: justify;
   padding: 0.5rem 1rem;
   font-size: 12px;
 }
+
 .card .actions {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   align-items: center;
   padding: 0.5rem 1rem;
 }
+
 .img-avatar {
   width: 80px;
   height: 80px;
@@ -93,10 +99,12 @@ button {
   font-size: 24px;
   color: #8bc34a;
   cursor: pointer;
-  }
+}
+
 img {
     max-width: 20px;
 }
+
 .dropdown {
     margin-left: 11px;
     position: relative;
@@ -118,7 +126,8 @@ img {
     display: block;
     align-items: center;
 }
-.imgP{
+
+.imgP {
   max-width: 80px;
   border-radius: 100%;
-}
+} 
