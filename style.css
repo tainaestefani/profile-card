@@ -97,34 +97,11 @@ button {
   border: none;
   background: none;
   font-size: 24px;
-  color: #8bc34a;
   cursor: pointer;
 }
 
 img {
     max-width: 20px;
-}
-
-.dropdown {
-    margin-left: 11px;
-    position: relative;
-    display: inline-block;
-}
-
-.dropdown-content {
-    padding-left: 20px;
-    padding-right: 20px;  
-    border-radius: 4px;
-    display: none;
-    position: absolute;
-    background-color: #fff; 
-    font-size: small;
-    box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.5);
-}
-
-.dropdown:hover .dropdown-content {   
-    display: block;
-    align-items: center;
 }
 
 .imgP {
