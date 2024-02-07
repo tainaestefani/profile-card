@@ -21,15 +21,11 @@
             <div class="title">Estudante de DS</div>
             <h2>Tainá Estefani Martins</h2>
         
-        <div class="desc">Com 18 anos de idade e 2 anos e meio de experiência no mercado de trabalho, tenho o objetivo de construir uma carreira sólida na área de TI e me tornar uma eficiente dev front-end para web.</div>
+        <div class="desc">Olá! Sou iniciante no ramo da programação e tenho o objetivo de me tornar uma eficiente dev front-end para web. Te convido a conhecer meus perfis profissionais!</div>
         <div class="actions">
           <button onclick="LinkedIn()"><img src="./src/images/Linkedin Logo.png"></button>
           <button onclick="GitHub()"><img src="./src/images/GitHub Logo.png"></button>
-          <div class="dropdown">
-            <button class="dropbtn"><img src="./src/images/Email Logo.png"></button>
-            <div class="dropdown-content">
-                <p> tainaestefanim@gmail.com</p>
-            </div>
+          <button onclick="Email()"><img src="./src/images/Email Logo.png"></button>
         </div>
         </div>
         </div>
@@ -43,6 +39,10 @@
         }
         function GitHub() {
             var url = "https://github.com/taina8";
+            window.open(url, "_blank");
+        }
+        function Email() {
+            var url = "mailto:tainaestefanim@gmail.com";
             window.open(url, "_blank");
         }
     </script>
