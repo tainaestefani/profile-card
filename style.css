@@ -86,7 +86,7 @@ path {
   height: 100%;
   border-top-left-radius: 20px;
   border-bottom-left-radius: 20px;
-  background-image: url("https://taina8.github.io/src/images/Fundo.jpeg");
+  background-image: url("/src/images/fundo.jpeg");
   background-position: bottom center;
   background-size: cover;
 }
