@@ -3,9 +3,7 @@
 No cartão, é possível observar um resumo da minha biografia profissional, também como botões que direcionam ao meu perfil do LinkedIn e GitHub, e outro botão que deixa visível meu endereço de e-mail.</p>
 
 <h3 align="left">Demonstração</h3>
-<p align="center">
-  <img align="center" alt="" height="350px" src="profile-card.png">
-</p>
+<img align="center" alt="" height="300px" src="profile-card.png">
 
 <h3 align="left">Linguagens Utilizadas</h3>
 * HTML5
