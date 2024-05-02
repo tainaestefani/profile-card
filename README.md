@@ -1,16 +1,17 @@
-# Profile Card
+<h2 align="left">Profile-Card</h2>
 
-Esse foi meu primeiro projeto, onde fiz um perfil profissional em forma de cartão.
+<p>Esse foi meu primeiro projeto, onde fiz um card profissional.
+No cartão, é possível observar um resumo da minha biografia profissional, também como botões que direcionam ao meu perfil do LinkedIn e GitHub, e outro botão que deixa visível meu endereço de e-mail.</p>
 
-No cartão, é possível observar um resumo da minha biografia profissional, também como botões que direcionam ao meu perfil do LinkedIn e GitHub, e outro botão que deixa visível meu endereço de e-mail.
+<h3 align="left">Demonstração</h3>
+<img align="right" alt="" height="300px" src="profile-card.png">
 
-# Linguagens Utilizadas
+<h3 align="left">Linguagens Utilizadas</h3>
 
 * HTML;
 * CSS.
 
-# Como Executar o Projeto
+<h3 align="left">🔧 Como Executar o Projeto</h3>
 
-1. Faça um clone deste repositório;
-4. Baixe o Live Server;
-5. E por fim, clique em "Go Live" para executar.
+Faça um clone deste repositório;
+Utilize a ferramrnta Live Server e clique em "Go Live" para executar.
