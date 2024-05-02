@@ -6,6 +6,7 @@ No cartão, é possível observar um resumo da minha biografia profissional, tam
 <img align="center" alt="" height="350px" src="profile-card.png">
 
 <h3 align="left">Linguagens Utilizadas</h3>
+
 * HTML5
 * CSS3
 
