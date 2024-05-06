@@ -14,5 +14,5 @@ No cartão, é possível observar um resumo da minha biografia profissional, tam
 
 ````
 Faça um clone deste repositório.
-Utilize a ferramrnta Live Server e clique em "Go Live" para executar.
+Utilize a ferramenta Live Server e clique em "Go Live" para executar.
 ````
