@@ -1,6 +1,6 @@
 <h2 align="left">Profile-Card</h2>
 <p>Esse foi meu primeiro projeto, onde fiz um card profissional.
-No cartão, é possível observar um resumo da minha biografia profissional, também como botões que direcionam ao meu perfil do LinkedIn e GitHub, e outro botão que deixa visível meu endereço de e-mail.</p>
+No cartão, é possível observar um resumo da minha biografia profissional, também como botões que direcionam ao meu perfil do LinkedIn, GitHub e meu endereço de e-mail.</p>
 
 <img align="right" alt="" height="200px" src="profile-card.png">
 
