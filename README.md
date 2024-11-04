@@ -9,7 +9,7 @@
 ## 🚀 Acesse o Projeto
 <p>Você pode visualizar o cartão clicando no seguinte link: https://tainaestefani.github.io/profile-card/.</p>
 
-## 🔧 Abrir e Executar o Projeto
+## 🔧 Como Executar o Projeto
 * Clone este repositório com o comando:
 ```
 git clone <https://github.com/tainaestefani/profile-card.git>
