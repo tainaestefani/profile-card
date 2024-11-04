@@ -12,7 +12,7 @@
 ## 🔧 Abrir e Executar o Projeto
 
 * Clone este repositório com o comando:
-```bash
+```
 git clone <https://github.com/tainaestefani/profile-card.git>
 ```
 * Abra em uma IDE de sua escolha e clique em "Run" / "Execute" / "Go Live" para executar.
